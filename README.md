@@ -3,14 +3,6 @@
 **`Futuro Desenvolvedor`**
 
 Me chamo Caio Augusto Vicente da Cruz, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniBh.
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
 
 ---
 
