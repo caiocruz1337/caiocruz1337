@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Caio Augusto
+# 👨🏽‍💻 Caio Augusto
 
 **`Futuro Desenvolvedor`**
 
