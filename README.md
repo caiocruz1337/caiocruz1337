@@ -2,7 +2,8 @@
 
 **`Futuro Desenvolvedor`**
 
-Me chamo Caio Augusto Vicente da Cruz, tenho 20 anos. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniBh.
+Me chamo Caio Augusto Vicente da Cruz, tenho 20 anos, sou natural de Belo Horizonte-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniBh com foco em evoluir profissionalmente na área de TI, aplicando soluções que unam desenvolvimento, lógica e automação.
+
 
 ---
 
