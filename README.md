@@ -1,6 +1,6 @@
-# 👨🏽‍💻 Caio Augusto Vicente da Cruz
+# 👨🏽‍💻 Olá, meu nome é Caio Augusto Vicente da Cruz
 
-Tenho 20 anos, sou natural de Belo Horizonte-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniBh com foco em evoluir profissionalmente na área, aplicando soluções que unam desenvolvimento, lógica e automação.
+Tenho 20 anos, sou natural de Belo Horizonte-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniBh com foco em evoluir profissionalmente na área, aplicando soluções que unam desenvolvimento, lógica e automação. No momento estou estudando bastante o desenvolvimento de software, buscando criar uma base sólida dos conceitos. 
 
 ---
 
@@ -47,5 +47,9 @@ Tenho 20 anos, sou natural de Belo Horizonte-MG. Atualmente, estou cursando Aná
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+--
+
+### Entre em contato comigo 
+
+<a href="https://www.linkedin.com/in/caioaugustovicentecruz" target="_blank">
+<img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
