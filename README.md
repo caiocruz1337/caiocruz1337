@@ -1,55 +1,45 @@
-# 👨🏽‍💻 Olá, meu nome é Caio Augusto Vicente da Cruz
+# 👨🏽‍💻 Caio Augusto Vicente da Cruz
 
-Tenho 20 anos, sou natural de Belo Horizonte-MG. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UniBh com foco em evoluir profissionalmente na área, aplicando soluções que unam desenvolvimento, lógica e automação. No momento estou estudando bastante o desenvolvimento de software, buscando criar uma base sólida dos conceitos. 
+- Estudante de Análise e Desenvolvimento de Sistemas  
+- Desenvolvimento back-end PHP e Node.js
+- Desenvolvimento front-end JavaScript, HTML, CSS
+📍 Belo Horizonte - MG  
+
+Tenho experiência prática em projetos envolvendo operações CRUD, integração com bancos de dados relacionais (MySQL e SQLite) e comunicação entre frontend e backend utilizando JSON.  
+
+Atualmente estou aprofundando meus estudos em lógica de programação, banco de dados e estruturação de aplicações web, buscando consolidar fundamentos e evoluir como desenvolvedor.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px"/>
+</p>
 
---
+---
 
-### Entre em contato comigo 
+## 📂 Projetos em Destaque
 
-<a href="https://www.linkedin.com/in/caioaugustovicentecruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:caiocruz1337@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### 🔹 Sistema de Cadastro de Usuários (CRUD Web)
+Aplicação web desenvolvida com PHP, MySQL e JavaScript, com operações CRUD completas e integração via JSON entre frontend e backend.  
+🔗 [Ver projeto](https://github.com/caiocruz1337/crud-usuarios-php)
+
+---
+
+### 🔹 Task Manager API
+API desenvolvida com Node.js, Express e SQLite para gerenciamento de tarefas com operações CRUD.  
+🔗 [Ver projeto](https://github.com/caiocruz1337/nodejs-task-manager-api)
+
+---
+
+## 📫 Contato
+
+🔗 LinkedIn: (https://www.linkedin.com/in/caioaugustovicentecruz/) 
+📧 Email: caiocruz1337@gmail.com
