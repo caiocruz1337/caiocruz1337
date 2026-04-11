@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Caio Augusto Vicente da Cruz
 
 - Estudante de Análise e Desenvolvimento de Sistemas  
-- Desenvolvimento back-end PHP e Node.js
+- Desenvolvimento back-end Node.js 
 - Desenvolvimento front-end JavaScript, HTML, CSS
 
 
